@@ -1,0 +1,20 @@
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\bin\Debug\işlemci_kontrol.exe.config
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\bin\Debug\işlemci_kontrol.exe
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\bin\Debug\işlemci_kontrol.pdb
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.Form1.resources
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\işlemci_kontrol.Properties.Resources.resources
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\işlemci_kontrol.exe
+C:\Users\nazar\Desktop\işlemci_kontrol - Kopya\obj\Debug\işlemci_kontrol.pdb
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\bin\Debug\işlemci_kontrol.exe.config
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\bin\Debug\işlemci_kontrol.exe
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\bin\Debug\işlemci_kontrol.pdb
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.Form1.resources
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\işlemci_kontrol.Properties.Resources.resources
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\NAZARALI_UMURKULOV_işlemci_kontrol.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\işlemci_kontrol.exe
+C:\Users\nazar\Desktop\NAZARALI_UMURKULOV_işlemci_kontrol\obj\Debug\işlemci_kontrol.pdb
